@@ -54,11 +54,16 @@
 
 
 ### 4.投稿论文：
-1. 一种增强代码理解的代码可视化工具JavaCity  
-2. CodeGen-Search: A code generation model incorporating similar sample information 
-3. 融入程序控制流结构信息的代码注释生成
-4. 基于图卷积神经网络和层次注意力网络的软件缺陷预测方法
-5. 一种代码克隆的可视化工具CloneJavaCity
+1. 一种增强代码理解的代码可视化工具JavaCity  （肖英剑）
+2. CodeGen-Search: A code generation model incorporating similar sample information （匡江玲）
+3. 融入程序控制流结构信息的代码注释生成（匡江玲）
+4. 基于图卷积神经网络和层次注意力网络的软件缺陷预测方法（肖英剑）
+5. 一种代码克隆的可视化工具CloneJavaCity（肖英剑）
+6. 基于深度学习的代码摘要自动生成技术研究综述（邱安）
+7. 一种基于GCN模型的代码注释生成方法（詹海波）
+8. CodeGen-Test:An Automatic Code Generation Model Integrating Program Test Information（刘根）
+9. 融合测试信息的代码自动生成模型研究（刘根）
+
 
 
 
