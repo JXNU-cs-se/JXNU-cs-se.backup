@@ -36,7 +36,7 @@
   介绍小组从2023年以来投稿和发表的论文情况；2022年以来软著和获奖情况:
 
 ### 1. 已发表论文：
-[1]. Jinshan Zeng, Ruiying Xu, Yu Wu, Hongwei Li and Jiaxing Lu，Zero-Shot Chinese Character Recognition with Stroke- and Radical-Level Decompositions[C], IJCNN2023 
+1. Jinshan Zeng, Ruiying Xu, Yu Wu, Hongwei Li and Jiaxing Lu，Zero-Shot Chinese Character Recognition with Stroke- and Radical-Level Decompositions[C], IJCNN2023 
 
 
 
@@ -49,15 +49,15 @@
 
 
 ### 3.预发表论文：
-[1] M. Zhong, G. Liu, H. Li, J. Kuang, J. Zeng, and M. Wang, “CodeGen-Test: An Automatic Code Generation Model Integrating Program Test Information.” arXiv, Feb. 14, 2022. doi: 10.48550/arXiv.2202.07612.
+1. M. Zhong, G. Liu, H. Li, J. Kuang, J. Zeng, and M. Wang, “CodeGen-Test: An Automatic Code Generation Model Integrating Program Test Information.” arXiv, Feb. 14, 2022. doi: 10.48550/arXiv.2202.07612.
 
 
 ### 4.投稿论文：
-[1] 一种增强代码理解的代码可视化工具JavaCity  
-[2] CodeGen-Search: A code generation model incorporating similar sample information 
-[3] 融入程序控制流结构信息的代码注释生成
-[4] 基于图卷积神经网络和层次注意力网络的软件缺陷预测方法
-[5] 一种代码克隆的可视化工具CloneJavaCity
+1. 一种增强代码理解的代码可视化工具JavaCity  
+2. CodeGen-Search: A code generation model incorporating similar sample information 
+3. 融入程序控制流结构信息的代码注释生成
+4. 基于图卷积神经网络和层次注意力网络的软件缺陷预测方法
+5. 一种代码克隆的可视化工具CloneJavaCity
 
 
 
