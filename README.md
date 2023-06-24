@@ -36,6 +36,8 @@
   介绍小组从2023年以来投稿和发表的论文情况；2022年以来软著和获奖情况:
 
 ### 1. 已发表论文：
+[1]. Jinshan Zeng, Ruiying Xu, Yu Wu, Hongwei Li and Jiaxing Lu，Zero-Shot Chinese Character Recognition with Stroke- and Radical-Level Decompositions[C], IJCNN2023 
+
 
 
 ### 2. 软件著作权：
