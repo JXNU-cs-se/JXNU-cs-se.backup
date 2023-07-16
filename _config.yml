@@ -30,7 +30,9 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
+title: JXNU-CS-SE homepage
+description: WE DO SE WORKING!
 plugins:
   - jekyll-feed
 
